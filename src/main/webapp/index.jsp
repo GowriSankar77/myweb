@@ -1,5 +1,5 @@
-<html>
+<html>	
 <body>
-	<h1 style="color: green; font-size: 40px;" align="center">  GANA TECH APP VERSION-12000</h1>
+	<h1 style="color: black; font-size: 40px;" align="center">hi all this is my manual project</h1>
 </body>
 </html>
